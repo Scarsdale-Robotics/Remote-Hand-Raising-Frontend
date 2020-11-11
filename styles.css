@@ -1,20 +1,3 @@
-@font-face {
-    font-family: "muli" !important;
-    src: url("/muli/Muli-Regular.ttf") !important;
-  }
-  
-  @font-face {
-    font-family: "muli";
-    src: url("muli/Muli-Bold.ttf");
-    font-weight: bold;
-  }
-  
-  @font-face {
-    font-family: "muli-black";
-    src: url("muli/Muli-Black.ttf");
-    font-weight: black;
-  }
-  
   @font-face {
     font-family: "mont";
     src: url("montserrat/Montserrat-Regular.otf");
